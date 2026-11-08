@@ -6,7 +6,8 @@
 
 [![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-3C8527?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-DBD0B4?logo=fabric&logoColor=black)](https://fabricmc.net/)
-[![Modrinth](https://img.shields.io/badge/Modrinth-Crowned%20%26%20Cursed-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com/)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?logo=github)](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues)
+[![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-181717?logo=github)](https://github.com/SeaSerpant1040/Crowned-and-Cursed/releases)
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 **A Minecraft 1.20.1 mod for Fabric by Em-Gang Development**
@@ -35,19 +36,22 @@ This repository is the public home for project documentation, license informatio
 
 - **Minecraft:** Java Edition 1.20.1
 - **Mod loader:** Fabric
-- Check the release or download page for the required Fabric Loader, Fabric API, and any additional dependencies for a particular version.
+- **Required dependency:** Fabric API
+- Check the release or download page for any additional version-specific requirements.
 
 ## Installation
 
 1. Install Minecraft Java Edition **1.20.1**.
-2. Install Fabric Loader for Minecraft 1.20.1.
-3. Check the mod's release/download listing for required dependencies and install them.
+2. Install the **Fabric Loader** for Minecraft 1.20.1.
+3. Install **Fabric API**.
 4. Download the compatible Crowned & Cursed release and place its `.jar` file in your Minecraft `mods` folder.
 5. Launch the game using your Fabric profile.
 
 ## Bug reports and suggestions
 
-Found a bug or have an idea for a new enchantment? Please use the repository's [Issues page](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues). When reporting a bug, include your Minecraft version, Fabric Loader version, other installed mods, and clear reproduction steps. For enchantment ideas, tell us whether it is a Crowned Decree or Forbidden Curse and describe its effect and balance considerations.
+Found a bug or have an idea for a new enchantment? Please use the repository's [Issues page](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues). When reporting a bug, include your Minecraft version, Fabric Loader version, other installed mods, and clear reproduction steps.
+
+For enchantment ideas, use the Issue templates and tell us whether it is a Crowned Decree or Forbidden Curse, along with its intended effect and balance notes.
 
 ## Credits
 
@@ -64,6 +68,7 @@ The mod's source code is private and is not provided in this repository.
 
 ## Links
 
-- [Report a bug or suggest an enchantment](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues)
+- [GitHub repository](https://github.com/SeaSerpant1040/Crowned-and-Cursed)
+- [Report a bug](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues)
 - [Browse releases](https://github.com/SeaSerpant1040/Crowned-and-Cursed/releases)
-- [Modrinth](https://modrinth.com/)
+- [Fabric](https://fabricmc.net/)
