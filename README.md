@@ -6,6 +6,7 @@
 
 [![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-3C8527?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-DBD0B4?logo=fabric&logoColor=black)](https://fabricmc.net/)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Crowned%20%26%20Cursed-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com/)
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?logo=github)](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues)
 [![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-181717?logo=github)](https://github.com/SeaSerpant1040/Crowned-and-Cursed/releases)
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
@@ -71,4 +72,5 @@ The mod's source code is private and is not provided in this repository.
 - [GitHub repository](https://github.com/SeaSerpant1040/Crowned-and-Cursed)
 - [Report a bug](https://github.com/SeaSerpant1040/Crowned-and-Cursed/issues)
 - [Browse releases](https://github.com/SeaSerpant1040/Crowned-and-Cursed/releases)
+- [Modrinth](https://modrinth.com/)
 - [Fabric](https://fabricmc.net/)
